@@ -1,7 +1,7 @@
 # Readme  
 这是WEB实训期末作业的后端部分.  
 ## Install  
-这个项目使用了Flask,请使用以下命令确认您已安装。  
+这个项目使用了Flask, 请使用以下命令确认您已安装。  
 ```
 $ pip install flask  
 ```  
