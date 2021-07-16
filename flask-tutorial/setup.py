@@ -1,3 +1,4 @@
+# 采用Google开源项目规范
 from setuptools import find_packages, setup
 
 setup(
