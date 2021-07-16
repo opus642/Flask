@@ -6,7 +6,7 @@
 $ pip install flask  
 ```  
 ## Usage  
-在命令行输入以下代码：  
+输入以下命令：  
 ```
 $ cd flask-tutorial
 $ export FLASK_APP=flaskr  
