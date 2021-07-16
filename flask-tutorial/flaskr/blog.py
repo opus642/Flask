@@ -1,3 +1,4 @@
+# 采用Google开源项目规范
 from flask import (
     Blueprint, flash, g, redirect, render_template, request, url_for
 )
