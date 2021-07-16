@@ -1,3 +1,4 @@
+# 采用Google开源项目规范
 import sqlite3
 
 import click
