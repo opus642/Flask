@@ -13,7 +13,7 @@ $ export FLASK_APP=flaskr
 $ export FLASK_ENV=development  
 $ flask run -h 0.0.0.0 
 ```  
-在PC端或移动端访问端口为5000的网址即可进行注册，登录，发帖等操作。  
+在PC端或移动端访问端口为5000的网址即可进行注册，登录，发帖等操作，仅供测试。 
 ## Contributing  
 该项目遵循[Contributor Covenant ](https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/)。  
 ## License  
